@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1553350104285_1" label="maven" name="maven">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-plugin-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-builder-support" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-model-builder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-settings" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-settings-builder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-artifact" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-resolver-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-repository-metadata" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-slf4j-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-embedder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/maven-compat" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/apache-maven" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539915261775_0" label="Window Working Set" name="Aggregate for window 1539915261775"/>
+</workingSetManager>

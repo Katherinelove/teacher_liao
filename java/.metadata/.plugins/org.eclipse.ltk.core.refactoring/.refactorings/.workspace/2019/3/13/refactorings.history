@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 15 resources" deleteContents="true" description="Delete 15 resources" element1="/apache-maven" element10="/maven-plugin-api" element11="/maven-repository-metadata" element12="/maven-resolver-provider" element13="/maven-settings" element14="/maven-settings-builder" element15="/maven-slf4j-provider" element2="/maven" element3="/maven-artifact" element4="/maven-builder-support" element5="/maven-compat" element6="/maven-core" element7="/maven-embedder" element8="/maven-model" element9="/maven-model-builder" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="15" stamp="1553393248997"/>
+</session>
